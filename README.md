@@ -27,6 +27,7 @@ gcc main.c -o leitor
 
 # Execute, fornecendo o nome do arquivo de dados como argumento
 ./leitor customer.dat
+```
 
 ---
 
@@ -53,3 +54,4 @@ gcc main.c -o select_sim
 
 # Execute, fornecendo o nome lógico da tabela como argumento
 ./select_sim product
+```
