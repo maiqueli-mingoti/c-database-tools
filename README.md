@@ -1,10 +1,10 @@
-# Projetos de Banco de Dados em C
+# Tarefas de Banco de Dados II em C
 
-Este repositório contém duas aplicações desenvolvidas em C para a disciplina de Banco de Dados, focadas na manipulação de arquivos de dados binários.
+Este repositório contém duas aplicações desenvolvidas em C para a disciplina de Banco de Dados II, focadas na manipulação de arquivos de dados binários.
 
 ---
 
-## 1. Leitor de Dados com Cabeçalho Embutido (`leitor-dat`)
+## Leitor de Dados com Cabeçalho Embutido (`leitor-dat`)
 
 Este programa lê e exibe dados de arquivos `.dat` cujo esquema de metadados está contido no próprio cabeçalho do arquivo.
 
@@ -31,7 +31,7 @@ gcc main.c -o leitor
 
 ---
 
-## 2. Simulador de SELECT * (`simulador-select`)
+## Simulador de SELECT * (`simulador-select`)
 
 Esta aplicação simula a operação `SELECT *` de um SGBD, utilizando arquivos de dicionário de dados (`.dic`) para obter os metadados e exibir o conteúdo de uma tabela.
 
